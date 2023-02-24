@@ -1,6 +1,7 @@
 accelerate
 basicsr
 fairscale==0.4.4
+fastapi==0.90.1
 fonts
 font-roboto
 gfpgan
