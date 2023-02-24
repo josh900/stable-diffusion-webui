@@ -6,6 +6,7 @@ gradio==3.9
 numpy==1.23.3
 Pillow==9.2.0
 realesrgan==0.3.0
+fastapi==0.90.1
 torch
 omegaconf==2.2.3
 pytorch_lightning==1.7.6
